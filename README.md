@@ -24,7 +24,7 @@
 - 🤖 **情侣对讲机**：基于 ESP32 和麦克风扬声器的机器
 - 🔌 **STM32小灯**：使用 STM32 实现的 智能控制小灯 项目  
 
-更多项目请查看我的 [Repositories](https://github.com/你的GitHub用户名)！
+更多项目请查看我的 [Repositories](https://github.com/cckkpp)！
 
 ---
 
